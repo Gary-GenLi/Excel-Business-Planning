@@ -59,7 +59,7 @@ The analysis focused on the following key metrics:
 
 Through the analysis, it was determined that the **breakeven point** between the two strategies occurs at the **19th month**. Up until the 19th month, the partner-based strategy is more profitable due to lower upfront costs and the benefit of a large distribution network. However, beyond the 19th month, the **direct store ownership strategy** begins to outperform the partner-based approach in terms of profit margin.
 
-
+![20240818005401](https://github.com/user-attachments/assets/d2c383d6-9990-4abd-97e2-5bbcb5bf3bce)
 
 ## Conclusion
 
