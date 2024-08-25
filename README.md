@@ -1,4 +1,4 @@
-# Excel-Strategic-Decision-Analysis
+# Strategic-Decision-Analysis-Excel
 
 ## Overview
 
